@@ -1,0 +1,7 @@
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\bin\Debug\yatzyPeli.exe.config
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\bin\Debug\yatzyPeli.exe
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\bin\Debug\yatzyPeli.pdb
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\obj\Debug\yatzyPeli.csprojAssemblyReference.cache
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\obj\Debug\yatzyPeli.csproj.CoreCompileInputs.cache
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\obj\Debug\yatzyPeli.exe
+C:\Users\jaana\source\repos\yatzyPeli\yatzyPeli\obj\Debug\yatzyPeli.pdb
